@@ -1,0 +1,23 @@
+.rowInfoCard {
+    height: 100%;
+}
+
+.infoCard {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#rowValores .card {
+    margin-bottom: 0;
+    height: 100%;
+}
+
+#rowValores {
+    margin-bottom: 30px;
+}
+
+@media only screen and (max-width: 768px) {
+    #cardGrafico {
+        margin-top: 5%;
+    }
+}

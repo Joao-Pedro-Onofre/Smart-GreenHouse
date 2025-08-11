@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+}
+
+.cardInicial {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #0e0c28;
+}
+
+.menu-list {
+    padding-top: 70px;
+    position: fixed;
+    width: 150px;
+    overflow-y: scroll;
+    top: 0;
+    bottom: 0;
+}

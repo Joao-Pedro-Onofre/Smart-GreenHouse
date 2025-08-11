@@ -1,0 +1,51 @@
+.badge-success {
+    background-color: #65C18C;
+}
+
+.badge-danger {
+    background-color: #AC0D0D;
+}
+
+.btn-danger {
+    background-color: #AC0D0D;
+}
+
+.btn-success {
+    background-color: #65C18C;
+}
+
+#cardTemp {
+    height: 100%;
+    justify-content: end;
+}
+
+#rowAtuadores .card {
+    margin-bottom: 0;
+}
+
+#txtValor {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.btnTemperatura,
+.btnEstado {
+    width: 50%;
+    border: none;
+}
+
+.btnTemperatura {
+    background-color: #5969ff;
+}
+
+.btnTemperatura:disabled {
+    background-color: #414cb6;
+}
+
+@media only screen and (max-width: 768px) {
+    #colunaTemp {
+        margin-top: 5%;
+    }
+}
