@@ -1,0 +1,7 @@
+______________Base de dados___________
+user: root
+password: não tem
+
+______________Login dashboard________________
+user: admin
+pass: admin
